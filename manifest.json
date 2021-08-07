@@ -3,7 +3,7 @@
    
     "name": "Auto Rickroll",
     "version": "1.0",
-    "description": "Upon clicking any link you have a 1 percent chance of getting rickrolled",
+    "description": "Upon clicking any link you have a 30 percent chance of getting rickrolled.\nTake a drink when you get RickRolled!\nPlease drink responsibly.",
    
     "content_scripts": [{
       "js": ["RickRoulette.user.js"],
