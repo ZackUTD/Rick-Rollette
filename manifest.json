@@ -6,7 +6,7 @@
     "description": "Upon clicking any link you have a 1 percent chance of getting rickrolled",
    
     "content_scripts": [{
-      "js": ["content.js"],
+      "js": ["RickRoulette.user.js"],
       "matches": ["<all_urls>"]
     }]
    
